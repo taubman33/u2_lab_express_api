@@ -46,5 +46,5 @@ touch ... ... ... ...
 
 ### Bonus II
 
-- AAU I want a Front End page that will allow me to pull, log, and render this information on screen using the Axios library
+- AAU I want a Front End page that will allow me to pull, log, and render this information on screen using the Axios library to a url of localhost:3001 with all of our respective routes and endpoints
 - As A Picky and Opinionated User I also want this page to have some style to it!
