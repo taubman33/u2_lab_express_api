@@ -14,6 +14,9 @@ npm i ... ... ... ...
 mkdir ... ... ... ...
 touch ... ... ... ...
 ```
+
+_note:_ you may have to run npm i, mkdir, and touch multiple times through these steps to ensure you have everything created in the correct order
+
 2) Update your Scripts block in your package.json so that your server is able to run on Nodemon (which, hopefully you've installed. If not, do it now!)
 
 3) In your config/db file, connect to a moviesDatabase using our standard Mongoose boilerplate
@@ -32,6 +35,9 @@ touch ... ... ... ...
 
 - Populate your db so that you have at least 5 of your parent data (movie or actor) and 10 of your child. Once you have Actors and Movies seeded, add at least 2 reviews to at least 3 of your movies.
 
+- Attach all of the necessary boilerplate to your express server.js file. Your landing page (localhost:3000/) should be the index list of your top parent data. We will want endpoints that have index and show routes for all three collections
+
+
 ### Requirements
 
 - At least 3 Collections with a relation. You can have either Actor->Movie->Review, or you can have Movie as a parent with both Actor and Review children. The choice is yours!
@@ -42,6 +48,7 @@ touch ... ... ... ...
 - AAU I want to sort my reviews by ascending or descending order
 - AAU I want to sort my movies by newest or oldest
 - AAU I want to Create, Update, and Delete my Actors, Movies, and Reviews using either ThunderClient or a query.js file
+- AAU I want an error message to display if I search for an Actor, Movie, or Review with an incorrect ID
 
 
 ### Bonus II
