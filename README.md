@@ -2,7 +2,7 @@
 
 ### Express / Mongoose API From Scratch
 
-## MEMDB - The Mongoose Express Movie Database
+## GAMEMDB - The GA Mongoose Express Movie Database (this name still needs work)
 
 For this lab we are going to create our own backend server! 
 
