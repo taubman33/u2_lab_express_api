@@ -35,7 +35,7 @@ _note:_ you may have to run npm i, mkdir, and touch multiple times through these
 
 - Populate your db so that you have at least 5 of your parent data (movie or actor) and 10 of your child. Once you have Actors and Movies seeded, add at least 2 reviews to at least 3 of your movies.
 
-- Attach all of the necessary boilerplate to your express server.js file. Your landing page (localhost:3000/) should be the index list of your top parent data. We will want endpoints that have index and show routes for all three collections
+- Attach all of the necessary boilerplate to your express server.js file. Your landing page (localhost:3001/) should be the index list of your top parent data. We will want endpoints that have index and show routes for all three collections
 
 
 ### Requirements
