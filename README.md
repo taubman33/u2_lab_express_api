@@ -27,7 +27,7 @@ _note:_ you may have to run npm i, mkdir, and touch multiple times through these
 
 - Your actors model should have properties for Name and Age, and one that says if they are Alive or not, plus any other properties you'll want to include. Again, try to add images using either method. What datatypes would we use for our other properties?
 
-- Reviews should be owned by movies and have a score and a comment. Your score can be 1-5, or 0-100%, either way, it will need some kind of Constraint put on it to make sure it can only hold valid information.
+- Reviews should be owned by movies and have a score and a comment. Your score can be 1-5, 1-10, or 0-100%, either way, it will need some kind of Constraint put on it to make sure it can only hold valid information.
 
 - Use your Foreign Key references to connect your data! You will have the choice of which you want the parent and child to be. Should Actors own many movies? Or movies own any actors?
 
