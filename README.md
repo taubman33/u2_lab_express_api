@@ -47,8 +47,8 @@ _note:_ you may have to run npm i, mkdir, and touch multiple times through these
 ### Bonus I
 - AAU I want to sort my reviews by ascending or descending order
 - AAU I want to sort my movies by newest or oldest
-- AAU I want to Create, Update, and Delete my Actors, Movies, and Reviews using either ThunderClient or a query.js file
 - AAU I want an error message to display if I search for an Actor, Movie, or Review with an incorrect ID
+- AAU I want to Create, Update, and Delete my Actors, Movies, and Reviews using either ThunderClient or a query.js file
 
 
 ### Bonus II
@@ -57,5 +57,5 @@ _note:_ you may have to run npm i, mkdir, and touch multiple times through these
 - As A Picky and Opinionated User I also want this page to have some style to it!
 
 ### Bonus III
-- Using the Plants API HW as a reference, add in CRUD functionality to your back end, and test it with ThunderClient
+- Using the Plants API HW as a reference, add in CRUD functionality to your back end, and test it with ThunderClient 
 - If you've gotten this far, we have a real challenge for you... use the Axios library to give your front end full CRUD as well!
