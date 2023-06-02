@@ -55,3 +55,7 @@ _note:_ you may have to run npm i, mkdir, and touch multiple times through these
 
 - AAU I want a Front End page that will allow me to pull, log, and render this information on screen using the Axios library to a url of localhost:3001 with all of our respective routes and endpoints
 - As A Picky and Opinionated User I also want this page to have some style to it!
+
+### Bonus III
+- Using the Plants API HW as a reference, add in CRUD functionality to your back end, and test it with ThunderClient
+- If you've gotten this far, we have a real challenge for you... use the Axios library to give your front end full CRUD as well!
