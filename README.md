@@ -19,9 +19,10 @@ _note:_ you may have to run npm i, mkdir, and touch multiple times through these
 
 2) Update your Scripts block in your package.json so that your server is able to run on Nodemon (which, hopefully you've installed. If not, do it now!)
 
-3) In your config/db file, connect to a moviesDatabase using our standard Mongoose boilerplate
+3) In your db file, connect to a moviesDatabase using our standard Mongoose boilerplate
 
-4) Create 3 schemas, Movies, Reviews and Actors. 
+4) Create 3 schemas, Movies, Reviews and Actors. You _mayyyy_ want to spend ~30 minutes making an ERD for these before you move further in this. 
+
 
 -  Your movies model should have a Title, Runtime, Rating, Year Released and a brief description. You can also include a link to a poster image for it, or try to upload an image file if you want a challenge! Think of what data types you'll want to use for each of these additional properties
 
